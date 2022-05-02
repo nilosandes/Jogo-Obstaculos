@@ -1,0 +1,2 @@
+# Jogo de Obstáculos do Dinossauro
+Projeto desenvolvido durante o Bootcamp Órbi Web Games Developer, em mentoria do Celso Henrique, com o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele foi utilizado HTML, CSS e JavaScript, abordando manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
